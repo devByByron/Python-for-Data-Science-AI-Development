@@ -76,3 +76,19 @@ Collaboration and Sharing: Notebooks can be easily shared to promote teamwork an
 **Getting Started**
 
 User-Friendly Interface: Easy to set up and use, helping learners leverage its features for data science projects.
+
+
+
+**Strings Manipulation**
+<img width="1169" height="352" alt="image" src="https://github.com/user-attachments/assets/c20cec42-29bb-4c28-a196-929b6d7a040f" />
+
+Python Basics Glossary
+
+
+
+
+
+
+
+
+
